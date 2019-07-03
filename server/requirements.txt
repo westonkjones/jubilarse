@@ -1,0 +1,16 @@
+pytest
+pylint-flask
+flask
+flask-cors
+flask-api
+blueprints
+flask-sqlalchemy
+sqlalchemy
+flask-marshmallow
+marshmallow-sqlalchemy
+marshmallow_enum
+psycopg2-binary
+jsons
+uwsgi
+flask-cors
+python-jose
